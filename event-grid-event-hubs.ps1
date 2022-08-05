@@ -1,3 +1,8 @@
+# -------------------------------------------------------------------------
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the MIT License. See License.txt in the project root for
+# license information.
+# 
 #This it to route custom events to Azure Event Hubs with Azure CLI and Event Grid
     ## Enable an Event Grid resource provider
     ## Create a custom topic
